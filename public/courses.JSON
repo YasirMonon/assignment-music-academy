@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Fundamentals of Music",
+        "price": 100,
+        "duration": "6 month",
+        "img": "https://i.ibb.co/Qb0HGVT/1.webp"
+    },
+    {
+        "id": 2,
+        "name": "Music Production",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/TBr506W/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Song Writing, Arranging",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/wCNp121/3.webp"
+    },
+    {
+        "id": 4,
+        "name": "Introduction to Classical Music",
+        "price": 150,
+        "duration": "6 month",
+        "img": "https://i.ibb.co/dQ7X6Kn/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Art of Artist",
+        "price": 100,
+        "duration": "6 month",
+        "img": "https://i.ibb.co/9qZpyKn/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Learn Music Theories",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/GQBnN1f/6.png"
+    },
+    {
+        "id": 7,
+        "name": "History of Rock",
+        "price": 150,
+        "duration": "6 month",
+        "img": "https://i.ibb.co/GnPR7zc/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Introduction to Jazz",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/GCGYF77/8.png"
+    },
+    {
+        "id": 9,
+        "name": "Mouth Organ Master Class",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/R27zJfQ/9.png"
+    },
+    {
+        "id": 10,
+        "name": "Guitar Master Class",
+        "price": 100,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/BczjcV0/10.png"
+    },
+    {
+        "id": 11,
+        "name": "Tune Your Piano",
+        "price": 50,
+        "duration": "4 month",
+        "img": "https://i.ibb.co/HG6XgjY/11.png"
+    }
+]
