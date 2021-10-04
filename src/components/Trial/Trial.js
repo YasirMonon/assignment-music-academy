@@ -66,7 +66,7 @@ const Trial = () => {
                     </div>
                     <div className="flex pl-4 mt-4 lg:w-2/3 w-full mx-auto">
                         <NavLink to={`/course/id`}>
-                            <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Apply</button>
+                            <button className="flex mx-auto mt-16 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Apply</button>
                         </NavLink>
                     </div>
                 </div>
