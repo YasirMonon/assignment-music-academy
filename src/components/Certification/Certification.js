@@ -44,7 +44,7 @@ const Certification = () => {
                         </div>
                         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
                             <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Training Session</h2>
-                            <p className="leading-relaxed text-base mb-4 text-justify">We arrange a number of Trainning Sessions over the time on different topics . Most of them are internationally Accrediated and Well Renowned Everywhere </p>
+                            <p className="leading-relaxed text-base mb-4 text-justify">We arrange a number of Trainning Sessions over the time on different topics . Most of them are internationally Accrediated & Well Renowned. </p>
                             <div className="button">
                                 <NavLink to={`/course/{id}`}>
                                     <button className="btn flex mx-auto mt-5 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
