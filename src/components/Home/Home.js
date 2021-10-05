@@ -12,7 +12,7 @@ const Home = () => {
             <section>
                 <div className='grid grid-cols-2 gap-6 mt-10 ml-10 text-justify'>
                     <div className='p-4 ml-4'>
-                        <h2 className='text-4xl uppercase text-center font-serif'> Welcome To</h2>
+                        <h2 className='text-4xl uppercase text-center font-serif'> <span>Welcome To</span></h2>
                         <br />
                         <h2 className='text-4xl uppercase text-center font-serif'> <span className='text-yellow-600 font-serif'>Melody  <i className="fas fa-guitar"></i> Music Academy</span></h2>
                         <br />
@@ -23,7 +23,7 @@ const Home = () => {
                         </h2>
                     </div>
                     <div className='ml-5'>
-                        <img src="https://i.ibb.co/8DP9Jb9/HD-wallpaper-butterfly-piano-concerto-ii-colorful-keys-music-bright-butterflies-abstract-piano.jpg" alt="" srcSet="" />
+                        <img src="https://i.ibb.co/nfD7rfj/wall-header.png" alt="" srcSet="" />
                     </div>
                 </div>
 
@@ -57,7 +57,7 @@ const Home = () => {
                     </div>
                     <div className='p-4 ml-4 text-justify'>
                         <br />
-                        <h2 className='text-4xl uppercase text-center font-serif'> Musics Created By <span className='text-yellow-600 font-serif'>Our Students</span></h2>
+                        <h2 className='text-4xl uppercase text-center font-serif'> Musics, Created By <span className='text-yellow-600 font-serif'>Our Students</span></h2>
                         <br />
                         <h2 className='text-2xl font-serif'>Where we've created some <span className='text-yellow-600 font-serif'>Greatest</span> and <span className='text-yellow-600 font-serif'>Marvelous </span>Music Artists of Industries . From Classical to Jazz, Western to Instrumental, We have a variety of Choices for you .
                         </h2>

@@ -1,6 +1,10 @@
 # Simple Page of 'Educational Service' (Melody Music Academy) - Assignment (Milestone - 9)
 
-* This Assignment was mainly on `React Router` along with `Custom 404 Error Page`
+* This Assignment is mainly on `React Router` along with `Custom 404 Error Page`
+
+* As a Basic `React Router` Assignment , We had to Put 04 (Four) Routes (minimum)
+
+* Simple `Animation` is added in Home (Navabar) button. 
 
 * [Click Here for Live Link / Website  (Netlify)](https://assignment-music-academy.netlify.app/)
 

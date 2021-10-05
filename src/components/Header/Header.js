@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css';
 import { NavLink } from 'react-router-dom';
 
 const Header = () => {
@@ -14,7 +15,7 @@ const Header = () => {
                     <div className="container px-4 mx-auto md:flex md:items-center">
 
                         <div className="flex justify-between items-center">
-                            <NavLink to="#" className="font-bold text-xl text-yellow-600 font-serif">Melody <i className="fas fa-guitar"></i>  Music </NavLink>
+                            <NavLink to="#" className="heartbeat font-bold text-xl text-yellow-600 font-serif">Melody <i className="fas fa-guitar"></i>  Music </NavLink>
                             <button className="border border-solid border-gray-600 px-3 py-1 rounded text-gray-600 opacity-50 hover:opacity-75 md:hidden" id="navbar-toggle">
                                 <i className="fas fa-bars"></i>
                             </button>

@@ -1,0 +1,21 @@
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-background{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    background-image: url(https://i.ibb.co/G091YnS/texture-diff.png);
+    transition: 0.5s;
+    margin: 5px;
+    border-radius: 15px;
+    border: 2px solid rgba(90, 57, 207, 0.233);
+    background-color: white;
+    box-shadow: 4px 4px 10px rgb(172, 174, 175);
+}
+.btn{
+    box-shadow: 5px 5px 10px rgb(139, 149, 247);
+}

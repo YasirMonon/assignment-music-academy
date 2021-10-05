@@ -1,4 +1,5 @@
 import React from 'react';
+import './Certification.css';
 import { NavLink } from 'react-router-dom';
 
 
@@ -17,30 +18,38 @@ const Certification = () => {
                         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60 text-justify">
                             <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Short Courses</h2>
                             <p className="leading-relaxed text-base mb-4">Most of the Short Courses' duration are between 1.5 to 02 months , and Certificate Awarding Body is 'Melody Music Academy' itself .</p>
-                            <NavLink to={`/course/id`}>
-                                <button className="text-justify flex mx-auto mt-16 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
-                            </NavLink>
+                            <div className="button">
+                                <NavLink to={`/course/{id}`}>
+                                    <button className="btn flex mx-auto mt-5 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
+                                </NavLink>
+                            </div>
                         </div>
                         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60 text-justify">
                             <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Workshops</h2>
-                            <p className="leading-relaxed text-base mb-4">All of the workshops' duration are between 01 to 02 days , and Certificate Awarding Body is 'Melody Music Academy' itself .</p>
-                            <NavLink to={`/course/id`}>
-                                <button className="flex mx-auto mt-16 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
-                            </NavLink>
+                            <p className="leading-relaxed text-base mb-4">All of the workshops' duration are between 01 to 02 days , and Certificate Awarding Body is 'Melody Music Academy' itself and 'Online Music Class,USA'.</p>
+                            <div className="button">
+                                <NavLink to={`/course/{id}`}>
+                                    <button className="btn flex mx-auto mt-5 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
+                                </NavLink>
+                            </div>
                         </div>
                         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
                             <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Six Month Diploma</h2>
                             <p className="leading-relaxed text-base mb-4">Our Short Diplomas' duration are between 05 to 06 months , and Certificate Awarding Bodies are 'Melody Music Academy' and 'Online Music Class,USA' .</p>
-                            <NavLink to={`/course/id`}>
-                                <button className="flex mx-auto mt-16 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
-                            </NavLink>
+                            <div className="button">
+                                <NavLink to={`/course/{id}`}>
+                                    <button className="btn flex mx-auto mt-5 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
+                                </NavLink>
+                            </div>
                         </div>
                         <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
                             <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Training Session</h2>
-                            <p className="leading-relaxed text-base mb-4 text-justify">We arrange a number of Trainning Sessions over the time on different topics . Most of them are internationally Accrediated. </p>
-                            <NavLink to={`/course/id`}>
-                                <button className="flex mx-auto mt-16 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
-                            </NavLink>
+                            <p className="leading-relaxed text-base mb-4 text-justify">We arrange a number of Trainning Sessions over the time on different topics . Most of them are internationally Accrediated and Well Renowned Everywhere </p>
+                            <div className="button">
+                                <NavLink to={`/course/{id}`}>
+                                    <button className="btn flex mx-auto mt-5 text-white bg-yellow-500 border-0 py-2 px-8 focus:outline-none hover:bg-yellow-600 rounded text-lg">Learn More</button>
+                                </NavLink>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -4,76 +4,98 @@
         "name": "Fundamentals of Music",
         "price": 100,
         "duration": "6 month",
-        "img": "https://i.ibb.co/Qb0HGVT/1.webp"
+        "img": "https://i.ibb.co/Qb0HGVT/1.webp",
+        "star": 4.3,
+        "starCount": 3245
     },
     {
         "id": 2,
         "name": "Music Production",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/TBr506W/2.png"
+        "img": "https://i.ibb.co/TBr506W/2.png",
+        "star": 4.6,
+        "starCount": 7586
     },
     {
         "id": 3,
         "name": "Song Writing, Arranging",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/wCNp121/3.webp"
+        "img": "https://i.ibb.co/wCNp121/3.webp",
+        "star": 4.4,
+        "starCount": 3905
     },
     {
         "id": 4,
-        "name": "Introduction to Classical Music",
+        "name": "Intro to Classical Music",
         "price": 150,
         "duration": "6 month",
-        "img": "https://i.ibb.co/dQ7X6Kn/4.png"
+        "img": "https://i.ibb.co/dQ7X6Kn/4.png",
+        "star": 4.7,
+        "starCount": 2589
     },
     {
         "id": 5,
         "name": "Art of Artist",
         "price": 100,
         "duration": "6 month",
-        "img": "https://i.ibb.co/9qZpyKn/5.png"
+        "img": "https://i.ibb.co/9qZpyKn/5.png",
+        "star": 4.1,
+        "starCount": 1968
     },
     {
         "id": 6,
         "name": "Learn Music Theories",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/GQBnN1f/6.png"
+        "img": "https://i.ibb.co/GQBnN1f/6.png",
+        "star": 4.3,
+        "starCount": 1256
     },
     {
         "id": 7,
         "name": "History of Rock",
         "price": 150,
         "duration": "6 month",
-        "img": "https://i.ibb.co/GnPR7zc/7.png"
+        "img": "https://i.ibb.co/GnPR7zc/7.png",
+        "star": 4.5,
+        "starCount": 3245
     },
     {
         "id": 8,
         "name": "Introduction to Jazz",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/GCGYF77/8.png"
+        "img": "https://i.ibb.co/GCGYF77/8.png",
+        "star": 4.2,
+        "starCount": 4562
     },
     {
         "id": 9,
         "name": "Mouth Organ Master Class",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/R27zJfQ/9.png"
+        "img": "https://i.ibb.co/R27zJfQ/9.png",
+        "star": 4.4,
+        "starCount": 1632
     },
     {
         "id": 10,
         "name": "Guitar Master Class",
         "price": 100,
         "duration": "4 month",
-        "img": "https://i.ibb.co/BczjcV0/10.png"
+        "img": "https://i.ibb.co/BczjcV0/10.png",
+        "star": 4.5,
+        "starCount": 6985
     },
     {
         "id": 11,
         "name": "Tune Your Piano",
         "price": 50,
         "duration": "4 month",
-        "img": "https://i.ibb.co/HG6XgjY/11.png"
+        "img": "https://i.ibb.co/HG6XgjY/11.png",
+        "star": 4.1,
+        "starCount": 1254
     }
 ]
